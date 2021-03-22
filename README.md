@@ -1,2 +1,2 @@
-# JavaScript-Documentation-in-JavaScript
+# JavaScript-Documentation-in-JavaScript.
 Mini JavaScript Documentation in JavaScript itself.
